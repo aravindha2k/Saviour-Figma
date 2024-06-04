@@ -1,7 +1,6 @@
 import React from 'react'
 import '../styles/header.css'
 import logo from "../assets/Logo-saviour.png"
-import wallet from "../assets/wallet-btn.png"
 import Navbar from './Navbar'
 import { Button } from '@chakra-ui/react'
 
