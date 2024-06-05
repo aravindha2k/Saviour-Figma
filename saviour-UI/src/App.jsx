@@ -7,6 +7,8 @@ import Intro from './components/Intro'
 import Event from './components/Event'
 import { Tokenomics } from './components/Tokenomics'
 import { Roadmap } from './components/Roadmap'
+import { FAQ } from './components/FAQ'
+import { Footer } from './components/Footer'
 
 function App() {
 
@@ -17,6 +19,8 @@ function App() {
       <Event/>
       <Tokenomics/>
       <Roadmap/>
+      <FAQ/>
+      <Footer/>
     </>
   )
 }
