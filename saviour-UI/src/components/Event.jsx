@@ -29,7 +29,7 @@ const Event = () => {
         },
       ];
 
-    const [seconds, setSeconds] = useState(25 * 3600);
+    const [seconds, setSeconds] = useState(24 * 3600);
   
     useEffect(() => {
       const timer = setInterval(() => {
