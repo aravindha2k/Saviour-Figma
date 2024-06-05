@@ -52,7 +52,7 @@ const Event = () => {
   return (
     <Box
       bgImage={eventBg}
-      width={"1512px"}
+      width={"100%"}
       height={{ base: "fit-content", md: "1145px" }}
       bgPos={{ base: "50% 35%", md: "0 95%" }}
       bgSize={"cover"}
