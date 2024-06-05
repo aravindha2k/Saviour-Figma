@@ -102,12 +102,12 @@ const Intro = () => {
           </Text>
         </Button>
       </Box>
-      <Box flex={1} padding="4"> {/* Second column for image */}
+      <Box flex={1} padding="4"> 
         <Image
-          src={introSav} // Replace with your image path
+          src={introSav} 
           alt="intro img"
-          width="795px" // Set image width
-          height="795px" // Set image height
+          width="795px" 
+          height="795px" 
           position="absolute"
           top="511px"
           left="723px"
